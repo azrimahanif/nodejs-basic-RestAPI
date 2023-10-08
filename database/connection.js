@@ -3,11 +3,11 @@ import users from "../model/user.model.js";
 const { Pool } = pkg;
 
 const config = {
-  host: "db.jxkkytfkqyssmrflfsoj.supabase.co",
+  host: "db.jcroevuiyjyqglkewkzf.supabase.co",
   port: 5432,
   database: "postgres",
   user: "postgres",
-  password: "OhEqj6mopPxU6AQO",
+  password: "QboaPE19d9dMM4X7",
 };
 
 const pool = new Pool(config);
